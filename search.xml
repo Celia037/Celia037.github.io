@@ -24,6 +24,12 @@
       </tags>
   </entry>
   <entry>
+    <title>ceshi</title>
+    <url>/2022/03/22/ceshi/</url>
+    <content><![CDATA[<p><img src="/.com//Hexo-Blog\source_posts\ceshi\1.jpg" alt="图片" title="图片1"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>云计算第二次作业</title>
     <url>/2022/03/21/%E4%BA%91%E8%AE%A1%E7%AE%97%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/</url>
     <content><![CDATA[<h3 id="2-1列举威胁作用者有哪些，并简要说明。"><a href="#2-1列举威胁作用者有哪些，并简要说明。" class="headerlink" title="2-1列举威胁作用者有哪些，并简要说明。"></a>2-1列举威胁作用者有哪些，并简要说明。</h3><h4 id="威胁作用者主要有："><a href="#威胁作用者主要有：" class="headerlink" title="威胁作用者主要有："></a>威胁作用者主要有：</h4><p>1.匿名攻击者<br>    匿名攻击者是云中没有权限、不被信任的云服务用户，它通常是一个外部软件程序，通过公网发动网络攻击。当匿名攻击者对安全策略和防护所致有限时，这会抑制它们形成有效攻击的能力。因此，匿名攻击者往往诉诸绕过账号或窃取用户证书的手段，同时使用能够确保匿名性或需要大量资源才能被检举的方法。</p>
