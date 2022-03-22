@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ceshi</title>
+    <url>/2022/03/22/ceshi/</url>
+    <content><![CDATA[<p><img src="/1.png" alt="1"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>云计算第一次作业</title>
     <url>/2022/03/12/%E4%BA%91%E8%AE%A1%E7%AE%97%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/</url>
     <content><![CDATA[<h3 id="1-1云使能技术包括哪些技术组件？用一句话简要说明其关键特征。"><a href="#1-1云使能技术包括哪些技术组件？用一句话简要说明其关键特征。" class="headerlink" title="1-1云使能技术包括哪些技术组件？用一句话简要说明其关键特征。"></a>1-1云使能技术包括哪些技术组件？用一句话简要说明其关键特征。</h3><p>使能技术：使能技术是指一项或一系列的、应用面广、具有多学科特性、为完成任务，而实现目标的技术。</p>
@@ -22,12 +28,6 @@
       <tags>
         <tag>This is my very first post.</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>ceshi</title>
-    <url>/2022/03/22/ceshi/</url>
-    <content><![CDATA[<p><img src="/.com//Hexo-Blog\source_posts\ceshi\1.jpg" alt="图片" title="图片1"></p>
-]]></content>
   </entry>
   <entry>
     <title>云计算第二次作业</title>
